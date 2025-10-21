@@ -1,0 +1,18 @@
+element_name,selector_type,selector_value
+username_input,css,#user-name
+password_input,css,#password
+login_btn,css,#login-button
+logo,css,.app_logo
+inventory_list,css,.inventory_list
+cart_icon,css,#shopping_cart_container a
+red_tshirt,css,button[id='add-to-cart-test.allthethings()-t-shirt-(red)']
+add_to_cart_text,css,Add to cart
+cart_badge,css,.shopping_cart_badge
+checkout_btn,css,#checkout
+first_name,css,#first-name
+last_name,css,#last-name
+postal_code,css,#postal-code
+continue_btn,css,#continue
+finish_btn,css,#finish
+success_header,css,.complete-header
+thank_you_text,css,Thank you for your order!
